@@ -3,8 +3,9 @@
 # Date: 18.11.2025
 # Reg. No.: 212223240033
 
-# Aim:
+### Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
+
 
 ### Algorithm:
 
@@ -22,57 +23,61 @@ Before generating videos, understand various text-to-video AI tools:
 
 3.Pictory – useful for narrated learning videos.
 
-For this experiment, GEMINI VEO 3 was used to generate all video clips.
+For this experiment, GEMINI,Pixverse.ai was used to generate all video clips.
 
 ## Step 2: Create the Prompts
 
-Three levels of prompts were prepared to generate videos on Photosynthesis.
+Three levels of prompts were prepared to generate videos on Volcano Eruption.
 
 # Prompt 1 – Basic Prompt
 
-“A simple animation showing how photosynthesis happens in a leaf.”
-Output:
-basic.mp4
-
-# Prompt 2 – Refined Prompt
-
-“A detailed educational animation showing the process of photosynthesis inside a leaf, including sunlight absorption, carbon dioxide intake, water transport, and glucose formation, with labeled parts.”
+“A simple animation showing a volcano erupting with lava flowing out.”
 
 # Output:
 
 
+https://github.com/user-attachments/assets/7cb909d1-b410-4625-8df8-5dca3d284a73
+
+
+# Prompt 2 – Refined Prompt
+
+“A detailed educational animation showing a volcanic eruption with labeled parts of the volcano such as magma chamber, vent, crater, and lava flow, along with smoke and ash clouds.”
+
+# Output:
+
+
+https://github.com/user-attachments/assets/9dd9fb2f-9c83-40c8-bdfc-c814f5d49f0b
+
+
+
 # Prompt 3 – Advanced Prompt
 
-“A cinematic 3D animation showing photosynthesis at both macroscopic and microscopic levels, with camera transitions from the plant to chloroplasts, realistic lighting effects, molecule movements, and a clear visual flow of sunlight, CO₂, water, and glucose production.”
-Output:
-advanced.mp4
+“A cinematic 3D animation of a volcanic eruption with realistic lava bursts, molten rock textures, glowing magma, ash explosions, smoke plumes, and smooth camera movement showing the volcano from different angles with dramatic lighting.”
 
-## Step 3: Observation
+# Output:
+
+
+https://github.com/user-attachments/assets/40212fec-33c0-4f50-bf25-5f68b9b707cc
+
+
+# Step 3: Observation
 
 Prompt Level	Description	Visual Quality	Scene Details	Motion / Camera Effects
-Basic	Simple leaf animation	Moderate	Limited labels and colors	None
-Refined	Added labels, steps, and arrows	Good	Clear educational visuals	Basic transitions
-Advanced	Cinematic microscopic animation	Excellent	Realistic molecules and lighting	Dynamic zoom + camera flow
+Basic	Simple eruption animation	Moderate	Limited detail	None
+Refined	Added labels, smoke, and ash	Good	Clear educational visuals	Basic transitions
+Advanced	Cinematic 3D eruption	Excellent	Realistic lava, lighting, smoke	Dynamic camera movement
 
-# Step 4: Evaluation
+## Step 4: Evaluation
 
-The basic prompt produced a simple animation showing the photosynthesis concept in a leaf.
+The basic prompt produced a simple animation showing lava emerging from a volcano.
 
-The refined prompt added more clarity with labeled diagrams, molecule movements, and stepwise explanations.
+The refined prompt added labeled parts of the volcano, ash clouds, and clearer eruption effects.
 
-The advanced prompt generated a cinematic 3D visualization with transitions into chloroplasts, realistic lighting, and molecule interactions.
+The advanced prompt generated a cinematic 3D volcanic eruption with dramatic lighting, realistic textures, and smooth camera transitions.
 
-Adding details like lighting, microscopic depth, molecular movement, and camera transitions significantly improved the realism and educational quality.
+Adding details like lighting, realistic lava textures, multiple angles, and dynamic smoke significantly enhanced the educational and visual quality.
 
+### Result
 
-https://github.com/user-attachments/assets/d4aebca8-0afb-429a-9f52-cc3e106062ea
+The prompts were successfully executed to generate three AI-based educational videos on Volcano Eruption.As the level of prompt detail increased, the visual clarity, realism, and motion effects of the generated videos improved.This experiment clearly shows that structured and descriptive prompting produces more engaging, realistic, and high-quality AI video outputs.
 
-
-## Result
-
-The prompts were successfully executed to generate three AI-based educational videos on “Photosynthesis.”
-As the level of prompt detail increased, the visual clarity, realism, and motion effects of the generated videos improved.
-This experiment clearly shows that structured and descriptive prompting produces more engaging, realistic, and high-quality AI video outputs.
-
-## Conclusion:
-By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
